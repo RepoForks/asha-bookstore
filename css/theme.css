@@ -16,3 +16,5 @@ hr {border-top: 1px solid #cec818 }
 .glyphicon {cursor: pointer}
 .uk-button {cursor: pointer}
 .uk-button-success {background-color: #4ae856 !important; color: #fff }
+.livros-comprados {display: flex; padding: 10px; flex-flow: wrap;}
+.livros-comprados .item { min-height: 80px; background: #f4f4f4; border-radius: 6px; width: 15%; height: 80px; margin: 5px; flex-basis: 15%; box-sizing: border-box;}
