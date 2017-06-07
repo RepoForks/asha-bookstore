@@ -15,13 +15,13 @@
 
         <header class="row">
           <div class="pull-left">
-            <img class="logo" src="img/logo.png" style="width: 100px" />
+            <img class="logo" src="img/logo.png" />
           </div>
         <div class="pull-right">
-          <a href="#" class="btn btn-info btn-lg">
+          <a href="#" class="uk-button uk-button-default">
             <span class="glyphicon glyphicon-shopping-cart"></span>
           </a>
-          <a href="#" class="btn btn-success btn-lg">
+          <a href="#" class="uk-button uk-button-default">
             <span class="glyphicon glyphicon-user"></span>
           </a>
         </div>

@@ -41,7 +41,10 @@
             </form>
             </div>
 
+            <div class="resultados-quantidade text-center uk-padding-small">Encontrados 7 livros</div>
+
             <div class="resultados">
+                <div class="item"> </div>
                 <div class="item"> </div>
                 <div class="item"> </div>
                 <div class="item"> </div>
