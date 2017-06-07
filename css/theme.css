@@ -7,3 +7,4 @@ header {height: 150px; width: 100%}
 .resultados {display: flex; padding: 10px}
 .resultados .item {background: #f4f4f4; border-radius: 6px; width: 33%; height: 250px; margin: 5px}
 hr {border-top: 1px solid #cec818 }
+.resultados .item-max {background: #f4f4f4; border-radius: 6px; width: 100%; height: 250px; margin: 5px}
