@@ -1,0 +1,9 @@
+body {padding: 10px}
+.fundo-amarelo {background-color: #fff946 !important}
+header {height: 150px; width: 100%}
+.barra-pesquisa {height: 40px; border-radius: 5px !important; text-align: center;}
+.navegacao {width: 100%; margin: 0px; margin-left: -15px; border-radius: 5px; min-height: 100px; height: 100%; background: #f4f4f4}
+.uk-search {width: 100%; }
+.resultados {display: flex; padding: 10px}
+.resultados .item {background: #f4f4f4; border-radius: 6px; width: 33%; height: 250px; margin: 5px}
+hr {border-top: 1px solid #cec818 }
