@@ -8,7 +8,11 @@ header {height: 150px; width: 100%}
 .resultados .item {background: #f4f4f4; border-radius: 6px; width: 33%; height: 250px; margin: 5px; flex-basis: 32%; box-sizing: border-box;}
 hr {border-top: 1px solid #cec818 }
 .resultados .item-max {background: #f4f4f4; border-radius: 6px; width: 100%; height: 250px; margin: 5px}
-.resultados-quantidade {}
 .logo {}
 .uk-button-default {background: #fff; border-radius: 5px;}
 .uk-button-default:hover {background: #f4f4f4;}
+.cart .item-max {background: #f4f4f4; border-radius: 6px; width: 100%; height: 100px; margin: 5px}
+.cart .item-max span {height: 100%}
+.glyphicon {cursor: pointer}
+.uk-button {cursor: pointer}
+.uk-button-success {background-color: #4ae856 !important; color: #fff }
